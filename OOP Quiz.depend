@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1549978980 source:c:\users\laptop hp\desktop\oop quiz\main.cpp
+	<iostream>
+	"Question.hpp"
+	"Question.cpp"
+	"Quiz.hpp"
+	"Quiz.cpp"
+
+1549978464 c:\users\laptop hp\desktop\oop quiz\question.hpp
+	<map>
+	<fstream>
+
+1549978464 c:\users\laptop hp\desktop\oop quiz\question.cpp
+	"Question.hpp"
+	<fstream>
+
+1549978369 c:\users\laptop hp\desktop\oop quiz\quiz.hpp
+	<vector>
+
+1549978464 c:\users\laptop hp\desktop\oop quiz\quiz.cpp
+	"Quiz.hpp"
+	<fstream>
+

@@ -1,0 +1,115 @@
+1
+A class that contains at least one pure virtual method is called:
+a
+abstract class
+b
+base class
+c
+derived class
+d
+friend class
+ a
+2
+Operator overloading is a representation of:
+a
+run-time polymorphism
+b
+compile-time polymorphism
+c
+RTTI
+d
+function overriding
+ b
+3
+Inheritance means:
+a
+protecting the attributes using acces modifiers
+b
+the same variable is shared by all the istances of a class
+c
+converting identifiers into addresses 
+d
+a new class is made by keeping the properties of an already existing class and adding some own properties
+ d
+4
+A static method:
+a
+can use any type of variable inside its body
+b
+can only use static or global variables
+c
+can have two versions: static and ne-static
+d
+can have two versions: static and virtual
+ b
+5
+A copy constructor is NOT called when:
+a
+an object of the class is returned by value
+b
+an object of the class is passed (to a function) by value
+c
+an object of the class is passed (to a function) by reference
+d
+an object of the class is constructed based on another object of the same class
+ c
+6
+It's NOT a form of compile-time polymorphism:
+a
+function overloading
+b
+virtual functions
+c
+templates
+d
+operator overloading
+ b
+7
+In the case of private inheritance:
+a
+private members of the base class are accessible in the derived class
+b
+public members of the base class become protected members in the derived class
+c
+protected memebers of the base class become private members in the derived class
+d
+protected members of the base class are not accessible in the derived class
+ c
+8
+Virtual inheritance is used to:
+a
+avoid ambiguity created by the diamond problem
+b
+access virtual functions
+c
+access pure virtual functions
+d
+create an object of an abstract class
+ a
+9
+The operators that can not be overloaded are:
+a
+. :: ? ()
+b
+[] :: ? ->
+c
+<< >> :: ?
+d
+:: ? .* .
+ d
+10
+When an exception is thrown but there's not a try block the exception was thrown from:
+a
+an error occurs
+b
+the program works perfectly fine
+c
+the program ends with terminate()
+d
+the program ends with unexpected()
+ a
+
+
+
+
+
